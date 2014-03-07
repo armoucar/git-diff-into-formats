@@ -1,0 +1,7 @@
+diff --git a/newfile b/newfile
+index e0f0b9a..cfce398 100644
+--- a/newfile
++++ b/newfile
+@@ -1 +1 @@
+-how are you?
++how do you do?
